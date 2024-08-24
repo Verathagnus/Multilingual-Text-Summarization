@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Indic Multilingual Text Summarization is a machine learning project aimed at summarizing in text across multiple Indic languages, starting with Bengali. This repository hosts the Streamlit code for easy deployment and usage. Download model files at [https://uploadnow.io/f/dc4f6Hb](https://uploadnow.io/f/dc4f6Hb)
+Indic Multilingual Text Summarization is a machine learning project aimed at summarizing in text across multiple Indic languages, starting with Bengali. This repository hosts the Streamlit code for easy deployment and usage. Download model files at [https://uploadnow.io/f/8YZ7pBb](https://uploadnow.io/f/8YZ7pBb)
 
 ## Project Structure
 
-- `models/`: Directory containing trained models for emotion detection. Download model files at [https://uploadnow.io/f/dc4f6Hb](https://uploadnow.io/f/dc4f6Hb)
+- `models/`: Directory containing trained models for emotion detection. Download model files at [https://uploadnow.io/f/8YZ7pBb](https://uploadnow.io/f/8YZ7pBb)
 - `app.py`: Streamlit application code for interacting with the models.
 - `requirements.txt`: List of Python dependencies required to run the Streamlit app.
 
@@ -40,7 +40,7 @@ To set up the project locally, follow these steps:
    ```sh
    pip install -r requirements.txt
    ```
-4. **Download model files at [https://uploadnow.io/f/dc4f6Hb](https://uploadnow.io/f/dc4f6Hb) and place them in a folder named models inside the project directory.**
+4. **Download model files at [https://uploadnow.io/f/8YZ7pBb](https://uploadnow.io/f/8YZ7pBb) and place them in a folder named models inside the project directory.**
 5. **Run the Streamlit application:**
    ```sh
    streamlit run streamlit_app.py
