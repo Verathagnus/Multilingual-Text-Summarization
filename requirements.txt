@@ -1,0 +1,9 @@
+numpy==1.26.4
+streamlit
+transformers==4.29.0
+torch
+fasttext-langdetect
+python-iso639
+scikit-learn
+numpy==1.26.4
+tensorflow
