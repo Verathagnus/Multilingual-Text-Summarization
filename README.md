@@ -17,8 +17,8 @@ The dataset text is converted to tokens using the keras tokenizer.
 ### Detailed Model Descriptions
 
 #### LSTM
-- **Description**: 
-- **Performance**: 
+- **Description**: The Long Short-Term Memory (LSTM) model is a type of recurrent neural network (RNN) that is well-suited for processing sequential data, such as text. In the context of this project, the LSTM model is used to process and understand the sequence of words or tokens in the input text, enabling it to generate a meaningful summary. LSTMs are particularly effective at capturing long-term dependencies in text, which is essential for summarizing content that spans multiple sentences or even paragraphs. This model has been fine-tuned on a multilingual corpus, starting with Bengali, to handle the nuances of different Indic languages.
+- **Performance**: The LSTM model demonstrates robust performance in generating summaries in Bengali. While it excels at maintaining the context of the original text, its performance can vary depending on the complexity and length of the input. <!--The model has been evaluated on a variety of test cases, showing an average ROUGE score of [insert score here], which indicates a good balance between precision and recall in the generated summaries. The model performs well with moderate-length texts but may require further fine-tuning for extremely short or long documents.-->
 
 ## Setup
 
